@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER Pierre-Hugues Husson <phh@phh.me>
 
 ENV DEBIAN_FRONTEND noninteractive
